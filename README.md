@@ -1,4 +1,4 @@
-# Thomas Aptitude Test
+# GIA - Thomas Aptitude Test
 
 A React-based aptitude test application built with Vite that simulates the Thomas General Intelligence Assessment (GIA) test.
 
@@ -14,14 +14,16 @@ This application simulates five cognitive tasks from the Thomas GIA test:
 
 Each task includes practice questions and is timed, typically taking 30-45 minutes to complete all five sections.
 
-Find more info about this at [thomas-aptitude.md](docs/thomas-aptitude.md)
+LIVE DEMO: https://lucianovici.github.io/thomas-aptitude
 
-Or the original official Thomas PDF guide [here](https://www.thomas.co/sites/default/files/thomas-files/2022-09/Aptitude%20Example%20Booklet_2021%20V1.pdf)
+![Screenshot](docs/screenshot.png)
+
+You can find more details about the tests in the original Thomas guide [docs/thomas-aptitude.pdf](docs/thomas-aptitude.pdf).
 
 ## Prerequisites
 
-- Node.js (v18 or higher)
-- npm (v9 or higher)
+- Node.js (v23 or higher)
+- npm (v10 or higher)
 
 ## Getting Started
 
